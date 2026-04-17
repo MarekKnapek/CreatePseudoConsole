@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="turbo-vision-a/turbo-vision-a.vcxproj" Id="4de68d47-57c3-4989-a904-353fd72b782d" />
+</Solution>

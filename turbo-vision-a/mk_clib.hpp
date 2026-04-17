@@ -1,0 +1,1 @@
+void mk_clib_fill_date_time(char* const buf, int const cap, int* const len);
